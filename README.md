@@ -24,7 +24,7 @@ The neural network layers can be modified to try to achieve a higher accuracy ra
   - ☁️ Google Drive
 
 ### 📚 References
-- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://www.youtube.com/watch?v=FLf5qmSOkwU)
+- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://youtu.be/FLf5qmSOkwU?si=ZReGFwTm2n2fpdsJ)
 
 <br>
 
@@ -58,4 +58,4 @@ As camadas da rede neural podem ser alteradas para tentar obter uma maior taxa d
   - ☁️ Google Drive
 
 ### 📚 Referências
-- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://www.youtube.com/watch?v=FLf5qmSOkwU)
+- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://youtu.be/FLf5qmSOkwU?si=ZReGFwTm2n2fpdsJ)
