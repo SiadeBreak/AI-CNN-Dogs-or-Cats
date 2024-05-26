@@ -1,3 +1,37 @@
+# Is that a Dog or a Cat? 🐶😼
+
+This "Dog or Cat" classifier is a project that applies a Convolutional Neural Network (CNN) to identify whether a photo is of a dog or a cat. The model was trained with a simple dataset of dog and cat images and achieved a 90% accuracy in classifying the images.
+
+### 📊 Dataset Details
+
+To facilitate the processing and reduce training time, this project used a reduced dataset with only 300 images of dogs and 300 images of cats. For more precise results, it is recommended to use a larger dataset. The full dataset, available in the repository, can be used to train the model with more images, increasing the accuracy and the range of breeds classified.
+
+### ⚙️ Model Customization
+
+The neural network layers can be modified to try to achieve a higher accuracy rate. Adding or removing convolutional layers, adjusting the number of filters, kernel sizes, and experimenting with different activation functions can help improve the model's performance. In this project, the current layer configuration provided the highest accuracy achieved so far.
+
+### 🛠️ Technologies Used
+- **Programming Language**: Python
+  
+- **Libraries**:
+  - 🧮 NumPy
+  - 👁️ OpenCV
+  - 📊 Matplotlib
+  - 📦 Pickle
+
+- **Development Tools**:
+  - 🗒️ Google Colab
+  - ☁️ Google Drive
+
+### 📚 References
+- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://www.youtube.com/watch?v=FLf5qmSOkwU)
+
+<br>
+
+<br>
+
+<br>
+
 # É um cachorro ou um gato ? 🐶😼
 
 Esse classificador de Cachorro ou Gato é um projeto de aplicação de uma Rede Neural Convolucional (CNN) que identifica se uma foto é de um cachorro ou de um gato. O modelo foi treinado com um simples conjunto de dados de imagens de cachorros e gatos e alcançou uma precisão de 90% na classificação das imagens.
@@ -22,3 +56,6 @@ As camadas da rede neural podem ser alteradas para tentar obter uma maior taxa d
 - **Ferramentas de Desenvolvimento**:
   - 🗒️ Google Colab
   - ☁️ Google Drive
+
+### 📚 Referências
+- [Image Classification with Keras, Tensorflow | Cat Vs Dog Prediction | Convolution Neural Networks](https://www.youtube.com/watch?v=FLf5qmSOkwU)
